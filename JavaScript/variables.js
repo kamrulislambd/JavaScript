@@ -1,2 +1,1 @@
-var myName = "Kamrul Islam";
-console.log("myName");
+console.log(10);
